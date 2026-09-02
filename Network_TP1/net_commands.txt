@@ -1,0 +1,9 @@
+NetEmulation.PktLag 500
+(Value in millisecond)
+
+Seamless travel in editor
+net.AllowSeamlessTravel true
+net.AllowPIESeamlessTravel 1
+(Pas oublier aussi de cocher la case dans l'éditeur)
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/using-network-emulation-in-unreal-engine
